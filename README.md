@@ -18,7 +18,7 @@ train, validation and test data can be found at https://drive.google.com/file/d/
 ## Tasks
 * Build an image classification model that can correctly predict the mentioned class, you need to report test accuracy and F1 score.
 * Build a endpoint to expose your model using streamlit/ Django API to allow user to get the output in json format. 
-* During submission do include python scripts *py /ipynb*, bundle your packages inside requirements.txt, documentation for your code is highly appreciated.
+* During submission do include python scripts *py /ipynb*, requirements.txt(bundle your packages inside) and documentation for your code which is highly appreciated.
 
 
 ### In case of queries regarding assignment, do reach out to hr@thenewj.com/ mohit.pandey@thenewj.com
