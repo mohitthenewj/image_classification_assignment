@@ -1,4 +1,4 @@
-# image_classification_assignment
+# Image classification assignment
 ## Context
 This is image data of Natural Scenes around the world.
 
