@@ -16,6 +16,6 @@ The Train, Test and Prediction data is separated in each zip files. There are ar
 train, validation and test data can be found at https://drive.google.com/file/d/1nPajsv7t4Bu7DGZeVj90-ZZ28Jd2AWAd/view?usp=sharing
 
 ## Tasks
-Build an image classification model that can correctly predict the mentioned class, you need to report test accuracy and F1 score.
-Build a endpoint to expose your model using streamlit/ Django API to allow user to get the output in json format. 
-During submission do include python scripts *py /ipynb* with packages bundled inside requirements.txt, documentation for your code is highly appreciated.
+* Build an image classification model that can correctly predict the mentioned class, you need to report test accuracy and F1 score.
+* Build a endpoint to expose your model using streamlit/ Django API to allow user to get the output in json format. 
+* During submission do include python scripts *py /ipynb* with packages bundled inside requirements.txt, documentation for your code is highly appreciated.
