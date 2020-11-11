@@ -1,6 +1,4 @@
 # Image classification assignment
-## Context
-This is image data of Natural Scenes around the world.
 
 ## Content
 This Data contains around 25k images of size 150x150 distributed under 6 categories.
